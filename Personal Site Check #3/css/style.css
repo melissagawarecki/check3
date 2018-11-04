@@ -1,0 +1,53 @@
+header {
+  padding: 20px 0px 10px;
+	margin: 0px auto;
+	width: 100%;
+	z-index: 1;
+}
+
+nav p {
+font-size: 16px;
+font-family: sans-serif;
+text-align: center;
+}
+
+p {
+  color: white;
+  font-size: 16px;
+}
+
+#main_nav a:hover, #main-nav a:focus, #main-nav a:active, #main-nav a:visited{
+  font-size: 12px;
+}
+
+.footer_text {
+  word-spacing: 10px;
+  color: clear;
+  text-align: center;
+}
+
+footer {
+  clear: both;
+	padding:20px 0px;
+	border-top: 5px groove #ffcc00;
+	position: relative;
+	top: 150px;
+  background-color: #877E77;
+}
+h1 {
+color: #3C2C4D:
+}
+
+nav img {
+float: right;
+}
+
+blockquote {
+  font-size: 14px;
+  font-family: monospace;
+  text-align: center;
+}
+
+article {
+  background-color: #877E77;
+}
