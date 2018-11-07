@@ -1,0 +1,17 @@
+header {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: tan;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Muli", sans-serif;
+}
+#headings {
+  text-decoration: underline;
+  font-size: 20px;
+}
