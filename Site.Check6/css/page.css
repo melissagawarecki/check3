@@ -1,0 +1,153 @@
+header {
+	width: 100%;
+  position: fixed;
+	z-index: 1;
+	background-color: #E5DFEB;
+	top: 0;
+	left: 0;
+}
+header img {
+	margin-left: 250px;
+}
+
+h1 {
+	color:#877E77;
+	margin-left:250px;
+	font-family: "Brush Script MT", cursive;
+}
+
+blockquote {
+  font-size: 14px;
+  font-family: monospace;
+	text-decoration: bold;
+	text-align: right;
+	padding-right: 30px;
+}
+
+.greeting {
+	font-family: "Arial", Verdana, sans-serif;
+	float: left;
+}
+
+.main-nav text a:focus, .main-nav a:visited {
+	color: #877E77;
+}
+
+.main-nav  a:hover {
+	color: white;
+}
+
+.main-nav a:active {
+	color: #877E77;
+}
+
+.main-nav {
+	text-align: center;
+	font-size: 32px;
+	word-spacing: 20px;
+	border-top: 5px solid #000000;
+  border-bottom: 5px solid #000000;
+}
+
+#container {
+	z-index: 0;
+	text-align: center;
+}
+main {
+  width: 1500px;
+  position: relative;
+  padding-top: 300px;
+}
+
+#greeting {
+  width: 100%;
+  margin: 0;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  position: fixed;
+  background-color: #E5DFEB;
+  z-index:1;
+}
+
+#columns {
+  width: 1250px;
+  height: 750px;
+  margin: auto;
+}
+
+nav img {
+position: absolute;
+}
+
+section img {
+  float: left;
+}
+
+section p {
+  float: right;
+}
+
+.column-one {
+  width: 800px;
+  height: 200px;
+  background-color: #877E77;
+  margin: 20px;
+  padding: 20px;
+}
+.column-two {
+  width: 800px;
+  height: 200px;
+  background-color: #877E77;
+  margin: 20px;
+  padding: 20px;
+}
+.column-three {
+  width: 800px;
+  height: 200px;
+  background-color: #877E77;
+  margin: 20px;
+  padding: 20px;
+}
+
+.description {
+  font-size: 14px;
+  float: right;
+}
+
+p {
+  color: white;
+  font-family:"Arial", Verdana, sans-serif;
+  font-size: 24px;
+}
+
+article {
+  position: relative;
+}
+
+
+footer {
+  clear: both;
+	padding:20px 0px;
+	border-top: 5px solid #000000;
+	position: relative;
+	top: 150px;
+  background-color: #E5DFEB;
+	text-align: center;
+}
+
+.footer_text a:focus, {
+	color: #877E77;
+}
+
+.footer_text  a:hover {
+	color: white;
+}
+
+.footer_text a:active {
+	color: #877E77;
+}
+
+.footer_text {
+		font-size: 20px;
+		word-spacing: 20px;
+	}
