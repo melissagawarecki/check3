@@ -1,0 +1,76 @@
+* {
+	box-sizing: border-box;
+}
+html {
+    font-size: 16px;
+    line-height: 1.4rem;
+}
+img {
+	width: 100%;
+    max-width: 100%;
+}
+
+footer {
+    margin: 4rem 0rem;
+    padding: 2rem 0rem;
+    border-top: 1px solid #ccc;
+    font-size: .8rem;
+}
+
+li {
+	display: inline;
+	padding: 10px;
+}
+
+main {
+	text-align: center;
+	padding: 10%;
+}
+
+body {
+	background-image: url("/img/bg.jpg");
+	background-repeat: repeat;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+font-family: 'Slabo 27px', serif;
+}
+
+h2 {
+	font-family: 'Slabo 27px', serif;
+}
+
+.photo1 {
+	width: 66%;
+	float: left;
+}
+
+.kidintro {
+	width: 66%
+}
+
+.left {
+	float: left;
+	width: 20%;
+	padding: 30px;
+}
+
+.right {
+	float: left;
+	width: 20%;
+	padding: 30px;
+}
+
+.center {
+	float: left;
+padding: 30px;
+	width: 20%;
+}
+
+.display::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+}
